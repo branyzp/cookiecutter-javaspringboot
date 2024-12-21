@@ -1,4 +1,4 @@
-package com.learning.hobby.User;
+package com.learning.hobby.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,7 +1,6 @@
-package com.learning.hobby.User;
+package com.learning.hobby.user;
 
 import jakarta.persistence.*;
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
